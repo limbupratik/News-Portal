@@ -10,10 +10,10 @@ function App() {
     <Router>
       <div style={{ maxWidth: "1200px", margin: "0 auto" }}>
         {/* Simple Header */}
-        <header style={{ padding: "15px", borderBottom: "1px solid #ddd" }}>
+        {/* <header style={{ padding: "15px", borderBottom: "1px solid #ddd" }}>
           <h1>Nepal Daily Insights</h1>
           <p>Your trusted digital news portal</p>
-        </header>
+        </header> */}
 
         {/* Routes */}
         <Routes>
